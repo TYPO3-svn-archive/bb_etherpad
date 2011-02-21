@@ -1,0 +1,4 @@
+plugin.tx_bbetherpad_pi1{
+	cssFile=EXT:bb_etherpad/res/bb_etherpad.css
+	templateFile=EXT:bb_etherpad/res/bb_etherpad.html
+}

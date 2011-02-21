@@ -1,0 +1,5 @@
+.tx-bbetherpad-pi1 iframe{
+	width:100%;
+	min-height:600px;
+	border: none;	
+}
